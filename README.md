@@ -1,7 +1,7 @@
 
 # API de Gestión Escolar UPIIZ
 
-## Contribuidores
+## Alumnos
 - Felipe Martínez Reyna
 - Gerardo Issac Luna Rodarte
 - Cristopher Isaí Velázquez Medina
