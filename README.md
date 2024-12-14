@@ -114,6 +114,7 @@ Esta solicitud esta restringida para profesores que se hayan autorizado
 ### Consideraciones
 -Limitaciones de AWS S3: AWS S3 tiene límites en la cantidad de solicitudes y el tamaño de los archivos. Asegúrate de tener configurada 
 una cuenta con suficientes recursos.
+
 -Manejo de errores: Si la API encuentra errores durante el procesamiento de las solicitudes (por ejemplo, si la base de datos
  no está disponible o el archivo no se puede cargar a S3), se devolverán mensajes de error adecuados con el código de estado HTTP correspondiente.
 
